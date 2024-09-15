@@ -218,7 +218,9 @@ section {
   }
 
   .heating_wrapper .heating_content > p {
-    font-size: 12px;
+    font-size: 10px;
+    word-break: keep-all;
+    white-space: nowrap;
   }
 
   .our_services_body {
