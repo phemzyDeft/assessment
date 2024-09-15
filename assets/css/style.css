@@ -213,4 +213,8 @@ section {
   .heating_content > img {
     width: 100%;
   }
+
+  .heating_wrapper .heating_content > p {
+    font-size: 12px;
+  }
 }
