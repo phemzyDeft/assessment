@@ -49,12 +49,6 @@ section {
   padding: 0 7rem ;
 }
 
-.Minuteman{
-  font-family: Helvetica;
-  letter-spacing: 2px;
-
-}
-
 .heating_wrapper {
   background-color: #314B59;
   display: flex;
@@ -129,6 +123,8 @@ section {
 .our_service_area .our_services_body {
   font-weight: 400;
   color: #8d9196;
+  line-height: 1.5rem;
+
 }
 
 .our_service_area .our_services_body_after {
@@ -172,6 +168,11 @@ section {
 
 .article .article_body {
   padding: 10px 0;
+}
+
+.article .article_body > p {
+  color: #8d9196;
+  margin-bottom: 10px;
 }
 
 .article .article_body_body_after{
