@@ -172,7 +172,8 @@ section {
 
 .article .article_body > p {
   color: #8d9196;
-  margin-bottom: 10px;
+  margin-bottom: 14px;
+  line-height: 1.5rem;
 }
 
 .article .article_body_body_after{
