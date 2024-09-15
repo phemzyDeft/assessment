@@ -54,7 +54,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 2rem 0;
+  /* padding: 2rem 0; */
   gap: 20px;
 }
 
@@ -89,6 +89,7 @@ section {
 .heating_wrapper .heating_content > img {
   width: 100%;
 }
+
 
 
 /* ======= our services ======== */
