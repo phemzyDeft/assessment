@@ -116,10 +116,13 @@ section {
   gap: 20px;
 }
 
-
-.our_service_area .our_services_img {
-  width: 100%;
+.services_img_wrap {
+  width: 100rem;
 }
+
+/* .our_service_area .our_services_img {
+  width: 100%;
+} */
 
 .our_service_area .our_services_body {
   font-weight: 400;
@@ -216,5 +219,9 @@ section {
 
   .heating_wrapper .heating_content > p {
     font-size: 12px;
+  }
+
+  .our_services_body {
+    width: 100%;
   }
 }
